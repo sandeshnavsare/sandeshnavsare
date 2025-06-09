@@ -31,13 +31,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshnavsare&show_icons=true&theme=radical" alt="stats" />
-</p>
+<h3 align="left">📈 GitHub Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshnavsare&show_icons=true&locale=en&layout=compact" alt="sandeshnavsare" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshnavsare&theme=radical" alt="streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshnavsare&show_icons=true&locale=en" alt="sandeshnavsare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshnavsare&" alt="sandeshnavsare" /></p>
 
 ---
 
