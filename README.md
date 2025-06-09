@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh Navsare</h1>
 <h3 align="center">DevOps Enthusiast | Automation Lover | Cloud Explorer ☁️</h3>
 
-
-
----
-
 ### 💫 About Me
 - 🔭 I’m currently working on **CI/CD pipelines and infrastructure automation**
 - 🌱 I’m learning **Kubernetes**, **Terraform**, and mastering **Jenkins Shared Libraries**
