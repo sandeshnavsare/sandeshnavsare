@@ -3,7 +3,7 @@
 
 🚀 DevOps Engineer passionate about automating CI/CD pipelines, container orchestration, and cloud-native deployments.
 🔧 Currently exploring advanced Kubernetes, Jenkins Shared Libraries, and infrastructure as code with Terraform.
-🌐 I love solving real-world problems with automation, scalability, and rock-solid DevOps practices.
+
 
 ---
 
