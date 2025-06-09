@@ -10,7 +10,6 @@
 - 🌱 I’m learning **Kubernetes**, **Terraform**, and mastering **Jenkins Shared Libraries**
 - 👯 I’m looking to collaborate on **DevOps toolchains** and **real-world automation use cases**
 - 💬 Ask me about **Jenkins, Docker, AWS (S3, EC2, Lambda), GitHub Actions**
-- 📫 How to reach me: [Email](mailto:sandeshnavsare1@gmail.com) 💌
 - ⚡ Fun fact: I automate things so I can chill while machines work! 🤖
 
 ---
