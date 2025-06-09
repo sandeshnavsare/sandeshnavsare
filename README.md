@@ -25,7 +25,6 @@
 
 ### 📊 GitHub Stats
 
-<h3 align="left">📈 GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshnavsare&show_icons=true&locale=en&layout=compact" alt="sandeshnavsare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeshnavsare&show_icons=true&locale=en" alt="sandeshnavsare" /></p>
