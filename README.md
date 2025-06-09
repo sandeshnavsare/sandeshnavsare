@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandesh Navsare</h1>
+<h1 align="left">Hi 👋, I'm Sandesh Navsare</h1>
 <h3 align="center">DevOps Enthusiast | Automation Lover | Cloud Explorer ☁️</h3>
 
 🚀 DevOps Engineer having 2+ years of professional experiance and passionate about automating CI/CD pipelines, container orchestration, and cloud-native deployments.
