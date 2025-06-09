@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandesh Navsare</h1>
 <h3 align="center">DevOps Enthusiast | Automation Lover | Cloud Explorer ☁️</h3>
 
-### 💫 About Me
-- 🔭 I’m currently working on **CI/CD pipelines and infrastructure automation**
-- 🌱 I’m learning **Kubernetes**, **Terraform**, and mastering **Jenkins Shared Libraries**
-- 👯 I’m looking to collaborate on **DevOps toolchains** and **real-world automation use cases**
-- 💬 Ask me about **Jenkins, Docker, AWS (S3, EC2, Lambda), GitHub Actions**
-- ⚡ Fun fact: I automate things so I can chill while machines work! 🤖
+🚀 DevOps Engineer passionate about automating CI/CD pipelines, container orchestration, and cloud-native deployments.
+🔧 Currently exploring advanced Kubernetes, Jenkins Shared Libraries, and infrastructure as code with Terraform.
+🌐 I love solving real-world problems with automation, scalability, and rock-solid DevOps practices.
 
 ---
 
