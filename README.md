@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sandesh Navsare</h1>
-<h3 align="left">DevOps Enthusiast | Automation Lover | Cloud Explorer ☁️</h3>
+<h3 align="left">DevOps Enthusiast ♾️ | Automation Lover | Cloud Explorer ☁️</h3>
 
 🚀 DevOps Engineer having 2+ years of professional experiance and passionate about automating CI/CD pipelines, container orchestration, and cloud-native deployments.
 🔧 Currently exploring advanced Kubernetes, Jenkins Shared Libraries, and infrastructure as code with Terraform.
